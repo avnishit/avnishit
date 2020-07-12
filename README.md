@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **avnishit/avnishit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Software Engineer & Architect with 6+ years of experience in building web at scale products across multiple domains ( FinTech, Telecom, SupplyChain ). Leading the development of 3D-Secure Services at Dimebox (acquired by Verifone). Passionate about scale.
+I am Avnish Chandra Suman, a software engineer & architect with 6+ years of experience in building web at scale products across multiple domains ( FinTech, Telecom, SupplyChain ). Leading the development of 3D-Secure Services at Dimebox (acquired by Verifone). Passionate about scale.
 - Stack: Node.js, C++, MongoDB, MySQL, AWS, Redis, RabbitMQ, Java
 - Driven by the enthusiasm of working at intersection of Product & Engineering, building cutting edge products & teams from grounds up
 - Consult early-stage startups/individuals looking to convert ideas into Products
